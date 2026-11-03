@@ -11,6 +11,13 @@ Professor: Pablo De Chiaro
 ## Unidade de medida
 Usamos passos para medir a distância entre cada porta/local do prédio, começando a contagem a partir do `LABTEC` (ponto zero). Ao todo ficaram 38 locais e 39 conexões mapeadas no arquivo `arestas.txt`.
 
+## Foto Caderno
+<img width="1600" height="824" alt="Foto_Caderno" src="https://github.com/user-attachments/assets/265d36b2-3e61-472d-8d05-d8f3cb6f800c" />
+
+
+
+
+
 ## Como rodar o projeto
 
 Primeiro, instale o FastAPI e o Uvicorn:
