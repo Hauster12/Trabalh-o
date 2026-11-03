@@ -16,7 +16,6 @@ Usamos passos para medir a distância entre cada porta/local do prédio, começa
 Primeiro, instale o FastAPI e o Uvicorn:
 ```bash
 pip install fastapi uvicorn
-python -m pip install fastapi uvicorn
 ```
 
 Para conferir se o grafo está carregando todas as portas e arestas certinho (Passo 3):
