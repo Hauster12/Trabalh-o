@@ -30,7 +30,7 @@ python Grafo_dusgu.py
 
 Para subir a API:
 ```bash
-uvicorn api:app --reload
+python -m uvicorn Grafo_dusgu:app --reload
 ```
 *(também funciona rodando `uvicorn Grafo_dusgu:app --reload`)*
 
