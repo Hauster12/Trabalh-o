@@ -18,7 +18,7 @@ Primeiro, instale o FastAPI e o Uvicorn:
 pip install fastapi uvicorn
 ```
 
-Para conferir se o grafo está carregando todas as portas e arestas certinho (Passo 3):
+Para conferir se o grafo está carregando todas as portas e arestas certinho:
 ```bash
 python grafo.py
 ```
